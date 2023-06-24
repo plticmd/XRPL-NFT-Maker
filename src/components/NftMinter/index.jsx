@@ -8,9 +8,9 @@ import { NFTStorage } from "nft.storage";
 import { extractAffectedNFT } from "@xrplkit/txmeta";
 
   //Api Key↓
-  // const xumm = new Xumm('363c9ac7-c330-4c77-997b-8167ab93c8d7')
+   const xumm = new Xumm('363c9ac7-c330-4c77-997b-8167ab93c8d7')
   // const nftStorage = new NFTStorage({ token: "api-token",});
-  const xumm = new Xumm("apikey");
+  // const xumm = new Xumm("apikey");
   //const nftStorage = new NFTStorage({  token: 'token'});  
   const nftStorage = new NFTStorage({  token: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJkaWQ6ZXRocjoweDAyZjgxZWQyOThiMDM3ZjMyOTE4RmE0MEUwMWYwRWI4NjA0YzA1RjgiLCJpc3MiOiJuZnQtc3RvcmFnZSIsImlhdCI6MTY4NzUzMTY0MzI2NCwibmFtZSI6IlhSUEwtdGVzdCJ9.ynLqL73NY-QM5acbpMddAUvlNwY0KFixSix6JrTJLLA"}); 
 
