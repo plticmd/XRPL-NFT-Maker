@@ -1,10 +1,6 @@
 # XRP Ledger NFT Starter
 
-![](/public/learn-banner.png)
-
-このリポジトリはUNCHAINのXRPL NFT Makerのスターターキットです。
-
-## はじめてみよう
+xrpl-nft-maker-chi.vercel.app/
 
 1. リポジトリをクローンする
 2. `npm install` を実行する
